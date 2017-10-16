@@ -5,8 +5,13 @@
     "authors": [
         {
             "name": "Renziito",
-            "email": "renzo.aliaga@upch.pe"
+            "email": "sepia.aki@gmail.com"
         }
     ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x"
+        }
+    }
     "require": {}
 }
