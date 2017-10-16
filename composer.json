@@ -14,5 +14,7 @@
             "dev-master": "1.0.x-dev"
         }
     },
-    "require": {}
+    "require": {
+        "insite/yii2-asset": "dev-master",
+    }
 }
