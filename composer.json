@@ -1,0 +1,12 @@
+{
+    "name": "insite/yii-theme-espire",
+    "description": "Tema para Yii",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Renziito",
+            "email": "renzo.aliaga@upch.pe"
+        }
+    ],
+    "require": {}
+}
