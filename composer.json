@@ -2,6 +2,7 @@
     "name": "insite/yii-theme-espire",
     "description": "Tema para Yii",
     "type": "library",
+    "license":"LGPL",
     "authors": [
         {
             "name": "Renziito",
